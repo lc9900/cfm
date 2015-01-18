@@ -1,6 +1,6 @@
 #mybgcarousel{ /* CSS for specific carousel container called #mybgcarousel. */
 width:100%;
-height:900px;
+height:700px;
 }
 /* ######### Shared CSS for various parts of carousel (in the event of multiple carousels) ######### */
 
@@ -52,6 +52,14 @@ text-decoration:none;
   padding-top: 60px !important;
   padding-bottom: 80px;
 }
+body {
+  background: #FFFBFB;
+  
+}
+body * {
+  font-family: 'Coming Soon', cursive !important;
+  /*font-family: 'Crafty Girls', cursive !important;*/
+}
 /*
 #footer, #footer a{
   background: #f05c4e;
@@ -64,14 +72,14 @@ text-decoration:none;
 #footer {
   border-top: 5px solid #f05c4e;
   padding-top: 30px;
-  padding-bottom: 20px;
+
   background: #FFFBFB;
   box-shadow: inset 0px 1px 0px 0px rgba(0,0,0,0.05), inset 0px 2px 3px 0px rgba(0,0,0,0.1);
 }
 #price-section{
-
+  background: white;
   box-shadow: inset 0px 4px 3px -2px rgba(0,0,0,0.3);
-  margin-bottom: 20px;
+
 }
 .pricing-table{
   border-radius: 10px 10px 10px 10px !important;

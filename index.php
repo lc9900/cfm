@@ -11,7 +11,8 @@
 
         <!-- This is how you would link your custom stylesheet -->
         <link rel="stylesheet" href="cfm.css">
-
+        <link href='http://fonts.googleapis.com/css?family=Coming+Soon' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Crafty+Girls' rel='stylesheet' type='text/css'>
         <script src="js/vendor/modernizr.js"></script>
         <script src="js/vendor/jquery.js"></script>
 
@@ -79,7 +80,7 @@
         
         <div id='footer'>
             <div class='row'>
-                <div class='small-12 columns small-centered'>
+                <div class='small-12 columns'>
                     <ul id='footer-menu'>
                         <li><a href='#'>Contact us</a></li>
                         <li><a href='#'>How it works</a></li>
