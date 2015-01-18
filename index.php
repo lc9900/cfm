@@ -55,8 +55,8 @@
                     <div class='row'>
                         <div class='small-6 columns'>
                             <ul class="pricing-table">
-                                <li class="title">Cute Once</li>
-                                <li class="price">$11.99</li>
+                                <li class="title">Single Treat</li>
+                                <li class="price">$14.99</li>
                                 <li class="description">Make the cutest Cuter!</li>
                                 <li class="bullet-item">5 Handpicked Accessories</li>
                                 <li class="bullet-item">One Happy Mommy</li>
@@ -65,9 +65,9 @@
                         </div>
                         <div class='small-6 columns'>
                             <ul class="pricing-table">
-                                <li class="title">Cute All the Time!</li>
+                                <li class="title">Subscribe</li>
                                 <li class="price">$14.99</li>
-                                <li class="description">Make the cutest Cuter, all the time!</li>
+                                <li class="description">Get a surprise every 2 months!</li>
                                 <li class="bullet-item">5 Handpicked Accessories</li>
                                 <li class="bullet-item">One Happy Mommy, all the time!</li>
                                 <li class="cta-button"><a class="button success" href="#">Buy Now</a></li>
