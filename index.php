@@ -26,7 +26,7 @@
                 imagearray: [
                   ['product/full.jpg', '<h2>Autumn Day</h2>The sun peaks through the trees, a knife that cuts through the chill, crisp air.'], //["image_path", "optional description"]
                   ['product/large.jpg', '<h2>Wind Chime</h2>The bellweather of the sky, the chime speaks of impending turmoil.'],
-                  ['product/img_1709.jpg', 'The scent of spring invigorates her as she inhales whilst the warm breeze brings a wave of tranquility.'],
+                  ['product/combo1.jpg', 'The scent of spring invigorates her as she inhales whilst the warm breeze brings a wave of tranquility.'],
                   ['product/andrew.jpg', 'Alone and Lonliness- Peace and Inner Struggle'] //<--no trailing comma after very last image element!
                 ],
                 displaymode: {type:'auto', pause:3000, cycles:0, stoponclick:false, pauseonmouseover:true},
