@@ -30,9 +30,9 @@ $(document).ready(function(){
     overflow: true,
     pause: true,
     theme: '#222',
-    timing: { 'fade': '0.5s ease-in' },
+    timing: { 'cube': '0.5s ease-in' },
     touch: true,
-    transition: 'fade'
-  }).add('h',['a','b','c','d','e','f','g','h','i','j','k','l','m','a'],'fade').auto();
+    transition: 'cube'
+  }).add('h',['a','b','c','d','e','f','g','h','i','j','k','l','m','a'],'cube').auto();
 
 });
