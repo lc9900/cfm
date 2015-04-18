@@ -25,8 +25,7 @@ div#pricing-section{
   -webkit-column-gap: 4em;
   -moz-column-gap: 4em;
   column-gap: 4em;
-
-  width:700px;
+  width: 60%;
   margin: 0 auto;
   padding-top: 100px;
 }
