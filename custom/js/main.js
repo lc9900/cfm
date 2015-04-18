@@ -21,18 +21,4 @@ $(document).ready(function(){
   //   slideMargin: 20
   // });
 
-  slidr.create('products', {
-    // breadcrumbs: true,
-    // controls: 'corner',
-    // direction: 'vertical',
-    fade: false,
-    keyboard: true,
-    overflow: true,
-    pause: true,
-    theme: '#222',
-    timing: { 'cube': '0.5s ease-in' },
-    touch: true,
-    transition: 'cube'
-  }).add('h',['a','b','c','d','e','f','g','h','i','j','k','l','m','a'],'cube').auto();
-
 });
